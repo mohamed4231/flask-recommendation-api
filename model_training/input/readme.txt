@@ -1,1 +1,1 @@
-We need to put your training data under this folder
+You need to put your training data under this folder
